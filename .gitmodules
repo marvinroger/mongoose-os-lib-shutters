@@ -1,0 +1,3 @@
+[submodule "src/arduino-shutters"]
+	path = src/arduino-shutters
+	url = https://github.com/marvinroger/arduino-shutters.git
